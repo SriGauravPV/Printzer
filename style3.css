@@ -1,0 +1,38 @@
+.orders1{
+    
+    padding-left: 20px;
+    font-size: 17px;
+}
+.header{
+    height: 55px;
+}
+.bb{
+    font-size: 17px;
+}
+.image-aboutus img{
+    width:100%;
+    height:400px;
+    padding-top:23px;
+    margin-bottom: 40px;
+}
+.contant-aboutus{
+    margin:20px 90px 90px 90px;
+}
+.cards-aboutus{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.info-aboutus{
+    margin:50px 90px 90px 90px;
+}
+.benefits,.fast,.lower{
+    margin-left:110px;
+    margin-bottom:50px;
+}
+.card-cap {
+    width: 1000px;
+    margin-left: 170px;
+}
