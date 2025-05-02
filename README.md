@@ -27,8 +27,6 @@
 
     🧾 Order tracking system
 
-    🧑‍🤝‍🧑 User authentication and dashboard
-
     🛒 Cart system for multiple orders
 
     🔔 Email and SMS notifications
